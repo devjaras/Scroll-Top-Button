@@ -1,0 +1,12 @@
+<?php
+/**
+ * Implements hook_theme().
+ */
+function scrolltopbutton_theme() {
+  return [
+    'scrolltopbutton' => [
+      'template' => 'scrolltopbutton',
+      'render element' => 'children',
+    ],
+  ];
+}

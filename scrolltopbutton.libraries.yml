@@ -1,0 +1,9 @@
+scrolltotop:
+  version: 1.x
+  js:
+    js/scrolltopbutton.js: {}
+  css:
+    component:
+      css/scrolltopbutton.css: {}
+  dependencies:
+    - core/jquery

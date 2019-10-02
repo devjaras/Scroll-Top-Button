@@ -1,0 +1,8 @@
+name: Scroll Top Button
+description: Scroll to the top of the page.
+package: Module
+type: module
+core: 8.x
+version: 8.x-1.0
+dependencies:
+- block
